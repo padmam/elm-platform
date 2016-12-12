@@ -1,6 +1,6 @@
 # Elm Platform
 
-https://app.snap-ci.com/padmam/elm-platform/branch/master/build_image
+[![Build Status](https://app.snap-ci.com/padmam/elm-platform/branch/master/build_image)](https://app.snap-ci.com/padmam/elm-platform/branch/master)
 
 A bundle of all [Elm](http://elm-lang.org) tools, usable through the `elm` executable.
 
