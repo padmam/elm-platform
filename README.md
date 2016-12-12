@@ -1,5 +1,7 @@
 # Elm Platform
 
+https://app.snap-ci.com/padmam/elm-platform/branch/master/build_image
+
 A bundle of all [Elm](http://elm-lang.org) tools, usable through the `elm` executable.
 
 This bundles together a bunch of projects that make it nice to use Elm: [`elm-compiler`][compiler], [`elm-make`][make], [`elm-reactor`][reactor], [`elm-repl`][repl], and [`elm-package`][package].
